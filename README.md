@@ -1,4 +1,4 @@
-This repository contains the code + files used to complete the GEOGO114 assessment. 
+Assessed project titled 'Analysing the spatial dynamics of suicide and employment in England and Wales', awarded a mark of 64. 
 
 NOTE:
 There was a problem adding the .shp file for the local authorities (England and Wales) boundaries due to file size exceeding GitHub's limit. I've included this in the .gitignore file, however in case of this causing a problem accessing the file, it can also be manually downloaded via this link (click download and select 'Shapefile'):
